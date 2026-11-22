@@ -62,7 +62,7 @@ enum class SearchMode {
 }
 
 enum class MinimoSettingsPosition {
-    Auto, Top, Bottom
+    Auto, Top, Bottom, Hidden
 }
 
 enum class ScreenOrientation(val label: String, val orientation: Int) {

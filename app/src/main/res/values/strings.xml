@@ -135,6 +135,7 @@
     <string name="app_usage_access_description">To display the screen time widget on the home screen, you need to provide App Usage access.</string>
     <string name="top">Top</string>
     <string name="bottom">Bottom</string>
+    <string name="hidden">Hidden</string>
     <string name="home_apps_alignment_vertical">Home Apps Alignment Vertical</string>
     <string name="drawer_apps_alignment_horizontal">Drawer Apps Alignment Horizontal</string>
     <string name="drawer_apps_alignment_vertical">Drawer Apps Alignment Vertical</string>

@@ -133,6 +133,7 @@ object StringUtils {
             MinimoSettingsPosition.Auto -> context.getString(R.string.auto)
             MinimoSettingsPosition.Top -> context.getString(R.string.top)
             MinimoSettingsPosition.Bottom -> context.getString(R.string.bottom)
+            MinimoSettingsPosition.Hidden -> context.getString(R.string.hidden)
         }
     }
 }

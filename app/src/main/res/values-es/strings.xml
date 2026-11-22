@@ -135,6 +135,7 @@
     <string name="app_usage_access_description">Para mostrar el widget de tiempo de uso en la pantalla de inicio, debes proporcionar acceso al uso de apps.</string>
     <string name="top">Arriba</string>
     <string name="bottom">Abajo</string>
+    <string name="hidden">Oculto</string>
     <string name="home_apps_alignment_vertical">Alineación vertical de apps en inicio</string>
     <string name="drawer_apps_alignment_horizontal">Alineación horizontal de apps en el cajón</string>
     <string name="drawer_apps_alignment_vertical">Alineación vertical de apps en el cajón</string>

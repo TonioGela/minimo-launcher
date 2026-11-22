@@ -137,6 +137,7 @@
     <string name="app_usage_access_description">Per mostrare il widget del tempo di utilizzo nella schermata home, è necessario fornire l\'accesso all\'utilizzo delle app.</string>
     <string name="top">In alto</string>
     <string name="bottom">In basso</string>
+    <string name="hidden">Nascosto</string>
     <string name="home_apps_alignment_vertical">Allineamento verticale app nella home</string>
     <string name="drawer_apps_alignment_horizontal">Allineamento orizzontale app nel drawer</string>
     <string name="drawer_apps_alignment_vertical">Allineamento verticale app nel drawer</string>

@@ -137,6 +137,7 @@
     <string name="app_usage_access_description">Чтобы показывать виджет экранного времени на главном экране, предоставьте доступ к истории использования.</string>
     <string name="top">Сверху</string>
     <string name="bottom">Снизу</string>
+    <string name="hidden">Скрыто</string>
     <string name="home_apps_alignment_vertical">Выравнивание приложений на главном экране по вертикали</string>
     <string name="drawer_apps_alignment_horizontal">Выравнивание приложений в меню приложений по горизонтали</string>
     <string name="drawer_apps_alignment_vertical">Выравнивание приложений в меню приложений по вертикали</string>

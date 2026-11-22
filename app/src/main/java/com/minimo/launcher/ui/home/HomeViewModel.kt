@@ -496,6 +496,7 @@ class HomeViewModel @Inject constructor(
             when (minimoSettingsPosition) {
                 MinimoSettingsPosition.Top -> listOf(settingsAppInfo) + dbApps
                 MinimoSettingsPosition.Bottom -> dbApps + listOf(settingsAppInfo)
+                MinimoSettingsPosition.Hidden -> dbApps
                 MinimoSettingsPosition.Auto -> (dbApps + settingsAppInfo).sortedWith(
                     compareBy(String.CASE_INSENSITIVE_ORDER) { it.name })
             }

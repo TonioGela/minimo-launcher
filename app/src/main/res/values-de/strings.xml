@@ -137,6 +137,7 @@
     <string name="app_usage_access_description">Um das Bildschirmzeit-Widget auf dem Startbildschirm anzuzeigen, müssen Sie den App-Nutzungszugriff gewähren.</string>
     <string name="top">Oben</string>
     <string name="bottom">Unten</string>
+    <string name="hidden">Ausgeblendet</string>
     <string name="home_apps_alignment_vertical">Vertikale Ausrichtung der Start-Apps</string>
     <string name="drawer_apps_alignment_horizontal">Horizontale Ausrichtung der Schubladen-Apps</string>
     <string name="drawer_apps_alignment_vertical">Vertikale Ausrichtung der Schubladen-Apps</string>
